@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://i.postimg.cc/tJDN3dZc/orgtxcat.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: unset;
+}
+
+#img {
+    text-align: center;
+}
+
+#gato {
+    padding-left: 33rem;
+    position: relative;
+    top: 15rem;
+}
+
+#logo {
+    padding-left: 30rem;
+}
